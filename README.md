@@ -4,8 +4,8 @@
 
 <div align=center>
 	
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	📚 Tech Stack 📚
+	✨ Platforms & Languages ✨
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
