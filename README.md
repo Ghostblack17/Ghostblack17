@@ -1,11 +1,7 @@
 <div align="center">
  
- ### Hi there 👋
-
-### My Name is Seung yeop.
-
-![header](https://capsule-render.vercel.app/api?type=slice&text=Hello%20World!&fontSize=50&rotate=20&height=300&fontAlign=70&fontAlignY=30)
  
+![header](https://capsule-render.vercel.app/api?type=slice&text=안녕하세요!&fontSize=50&rotate=20&height=300&fontAlign=70&fontAlignY=30)
 
 _________
  
