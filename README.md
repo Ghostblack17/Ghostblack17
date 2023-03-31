@@ -43,8 +43,7 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostblack17&layout=compact">
+	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=ghostblack17&show_icons=true">
-
-![Seungyeop's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=ghostblack17)
 
 </div>
