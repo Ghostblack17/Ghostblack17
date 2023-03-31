@@ -25,6 +25,9 @@ _________
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
  
+
+_________
+ 
 * Blog
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Ghost_blog&theme=dark)](https://ghostwing17.tistory.com)
