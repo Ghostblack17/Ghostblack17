@@ -2,9 +2,9 @@
  
  ### Hi there 👋
 
-### My Name is Seugn yeop.
+### My Name is Seung yeop.
 
-![header](https://capsule-render.vercel.app/api?type=slice&text=Console%20Game!&fontSize=50&rotate=20&height=300&fontAlign=70&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=slice&text=Hello%20World!&fontSize=50&rotate=20&height=300&fontAlign=70&fontAlignY=30)
  
 
 _________
