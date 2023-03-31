@@ -47,8 +47,4 @@
 
 ![Seungyeop's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=ghostblack17)
 
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghostblack17)](https://solved.ac/ghostblack17)
 </div>
