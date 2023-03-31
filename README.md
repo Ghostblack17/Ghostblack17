@@ -1,8 +1,8 @@
-### Hi there 👋
+<div align="center">
+ 
+ ### Hi there 👋
 
 ### My Name is Seugn yeop.
-
-<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=slice&text=Console%20Game!&fontSize=50&rotate=20&height=300&fontAlign=70&fontAlignY=30)
  
